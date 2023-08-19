@@ -158,8 +158,88 @@ public class Code {
 //        System.out.println("a= " + a);
 
 
+        ////////////////////////////////////////////////////////////////////////////////////////////////////
+//        String
+
+//        String stringName = "hello";
+//        System.out.println(stringName);
+
+        ///////////////////////////////////////////////////////////////////////////////////////
+//        Math class
+
+//        System.out.println( Math.max(111,16) );
+//        System.out.println( Math.min(111,16) );
+//
+//        int a = 50-100;
+//        System.out.println("a= "+a);
+//        a = Math.abs(a);
+//        System.out.println("abs a = "+ a);
+//        System.out.println(Math.random()*100);
+//        System.out.println(Math.addExact(11,14));
+
+        /////////////////////////////////////////////////////////////////////////////////////
+
+//        boolean name = false;
+//        System.out.println(name);
+
+//        int x = 10;
+//        int y = 9;
+//        System.out.println(x > y);
+
+        /////////////////////////////////////////////////////////////////////////////////////
+//        if
+//        if(10>20){
+//            System.out.println(" 10 is smaller than 20");
+//        }else if(20>30){
+//            System.out.println(" 20 is smaller than 30");
+//        } else{
+//            System.out.println(" bigger ");
+//        }
+
+//        int number = 22;
+//
+//        if (number < 10) { // 22 < 10
+//            System.out.println("Good morning.");
+//        } else if (number > 18) {
+//            System.out.println("Good day.");
+//        } else {
+//            System.out.println("Good evening.");
+//        }
+
+//        int day =2;
+//
+//        if(day==1)System.out.println("mon");
+//        else if(day==2)System.out.println("tue");
+//        else if(day==3)System.out.println("wed");
+//        else if(day==4)System.out.println("thu");
+//        else if(day==5)System.out.println("fri");
+//        else if(day==6)System.out.println("sat");
+//        else if(day==7)System.out.println("enjoy");
+
+
+
+
+        /////////////////////////////////////////////////////////////////////////////////////
+            //switch
+
+//        int day = 3;
+//        switch (day){
+//            case 1:
+//                System.out.println("mon");
+//                break;
+//            case 2:
+//                System.out.println("tue");
+//                break;
+//            case 3:
+//                System.out.println("wed");
+//                break;
+//            default:
+//                System.out.println("wrong day");
+//        }
+
+        /////////////////////////////////////////////////////////////////////////////////////
+
+
 
     }
-
-
 }
